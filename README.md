@@ -1,0 +1,14 @@
+# missi-user 12 SP1A.210812.016 22.6.17 release-keys
+- manufacturer: xiaomi
+- platform: mt6877
+- codename: pissarro
+- flavor: missi-user
+- release: 12
+- id: SP1A.210812.016
+- incremental: 22.6.17
+- tags: release-keys
+- fingerprint: Redmi/vnd_pissarro/pissarro:12/SP1A.210812.016/22.6.17:user/release-keys
+- is_ab: true
+- brand: Redmi
+- branch: missi-user-12-SP1A.210812.016-22.6.17-release-keys
+- repo: redmi_pissarro_dump
