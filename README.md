@@ -1,0 +1,14 @@
+# missi_phoneext4_cn-user 13 TP1A.220624.014 V14.0.23.1.3.DEV release-keys
+- manufacturer: xiaomi
+- platform: mt6877
+- codename: pissarro
+- flavor: missi_phoneext4_cn-user
+- release: 13
+- id: TP1A.220624.014
+- incremental: V14.0.23.1.3.DEV
+- tags: release-keys
+- fingerprint: Redmi/vnd_pissarro/pissarro:12/SP1A.210812.016/V14.0.23.1.3.DEV:user/release-keys
+- is_ab: true
+- brand: Redmi
+- branch: missi_phoneext4_cn-user-13-TP1A.220624.014-V14.0.23.1.3.DEV-release-keys
+- repo: redmi_pissarro_dump
